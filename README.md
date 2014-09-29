@@ -8,4 +8,4 @@ Features Planned:
 - Communicate with the Stockfish Engine for computational scores
 - Allow the drawing of arrows and highlighting of squares for analysis
 - Allow for new annotations to be made, and the resulting PGN to be saved to disk
-- Pretty graphs ala lichess.org for analysis mode
+- Pretty graphs ala [lichess.org](http://en.lichess.org/JWwTnTcNorg/) for analysis at a glance
